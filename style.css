@@ -1,0 +1,33 @@
+:root{
+    /* font size */
+    --font-size-large : 28px;
+    --font-size-medium : 20px;
+    --font-size-small : 16px;
+    --font-size-micro : 12px;
+
+    /* background color */
+    --color-red : #b10a0a;
+    --color-blue : #380bb3;
+    --color-white : #f3f2f7;
+    --color-black : #000000;
+    --color-gray : #a3a1a1;
+    
+    /* Font weight */
+    --weight-bold: 700;
+    --weight-semi-bold: 600;
+    --weight-regular: 400;
+
+    /* margin */
+    --base-margin: 8px;
+
+   /* Size */
+    --size-border-radius: 4px;
+
+   /* Animation Duration */
+    --animation-duration: 250ms;
+}
+
+body{
+    margin: 0px;
+    font-family: "Open Sans", sans-serif;
+}
